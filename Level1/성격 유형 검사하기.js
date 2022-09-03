@@ -1,4 +1,3 @@
-// function solution(survey, choices) {
 function solution() {
     const survey = ["AN", "CF", "MJ", "RT", "NA"];
     const choice = [5, 3, 2, 7, 5];
